@@ -30,7 +30,7 @@ Set an environment variable with your API key:
 
 and let's create stuff!
 
-`python3 generate-image.py "godzilla eating ice crean"`
+`python3 generate-image.py "godzilla eating ice cream"`
 
 --
 
