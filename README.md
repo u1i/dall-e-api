@@ -31,3 +31,13 @@ Set an environment variable with your API key:
 and let's create stuff!
 
 `python3 generate-image.py "godzilla eating ice crean"`
+
+--
+
+![](sam.png)
+
+Sam's idea:
+
+"a pale blue sky. There is a dark cloud below it and a rainbow above it. In the middle of the rainbow there is a green flying bird"
+
+![](sam-out.png)
